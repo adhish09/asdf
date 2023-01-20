@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cvdlab/react-planner.git"
+    "url": "git+https://github.com/adhish09/asdf.git"
   },
   "keywords": [
     "floorplanner",
@@ -38,32 +38,9 @@
     "component"
   ],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cvdlab/react-planner/issues"
-  },
-  "maintainers": [
-    {
-      "url": "https://github.com/chrvadala",
-      "name": "chrvadala"
-    },
-    {
-      "url": "https://github.com/danilosalvati",
-      "name": "danilosalvati"
-    },
-    {
-      "url": "https://github.com/enricomarino",
-      "name": "enricomarino"
-    },
-    {
-      "url": "https://github.com/federicospini",
-      "name": "federicospini"
-    },
-    {
-      "url": "https://github.com/alessiocarrafa",
-      "name": "alessiocarrafa"
-    }
-  ],
-  "homepage": "https://github.com/cvdlab/react-planner#readme",
+ 
+  
+  "homepage": "https://github.com/adhish09/asdf",
   "dependencies": {
     "@mapbox/react-range": "0.0.7",
     "area-polygon": "1.0.1",
